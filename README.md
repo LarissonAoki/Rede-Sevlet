@@ -1,6 +1,6 @@
-# Rede-Sevlet
+# Rede via Socket
 
-Realiza conexões com duas máquinas virtuais Ubuntu Server, utilizando Sevlet para a comunicação </br>
-O principal objetivo é criar um chat entre o Cliente e o Servidor. </br> </br>
+Realiza conexões com duas máquinas virtuais Ubuntu Server, utilizando Socket para a comunicação </br>
+O principal objetivo é criar um chat entre as máquinas Cliente e Servidor. </br> </br>
 
-O arquivo Conexão Sevler são os arquivos Java para realizar a conexão.
+O arquivo Conexão Socket são os arquivos Java para realizar a conexão.
